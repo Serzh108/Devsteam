@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.965d8446.chunk.css",
+    "main.js": "/static/js/main.d7318d57.chunk.js",
+    "main.js.map": "/static/js/main.d7318d57.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0092992.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0092992.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.c17ad7fd.chunk.js": "/static/js/2.c17ad7fd.chunk.js",
+    "static/js/2.c17ad7fd.chunk.js.map": "/static/js/2.c17ad7fd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.965d8446.chunk.css.map": "/static/css/main.965d8446.chunk.css.map",
+    "static/js/2.c17ad7fd.chunk.js.LICENSE.txt": "/static/js/2.c17ad7fd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/open-sans-v18-latin_cyrillic-regular.ec439cdb.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0092992.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.c17ad7fd.chunk.js",
+    "static/css/main.965d8446.chunk.css",
+    "static/js/main.d7318d57.chunk.js"
+  ]
+}
